@@ -2,4 +2,4 @@
 
 ## to install it 
 
-composer create-project --prefer-dist ayman-elmalah/phplite blog
+composer create-project --prefer-dist salmamehanny/phplite blog

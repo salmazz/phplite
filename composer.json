@@ -1,16 +1,16 @@
 {
-    "name": "salma-mehanny/phplite",
+    "name": "salmamehanny/phplite",
     "type": "project",
     "authors": [
         {
-            "name": "salmazz",
+            "name": "salma mehanny",
             "email": "salmamehanny@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {
         "php" : "^7.1.3",
-        "ayman-elmalah/framework" : "1.0.*"
+        "salmamehanny/framework" : "1.0.*"
     },
     "autoload": {
         "psr-4": {
