@@ -1,6 +1,7 @@
 {
     "name": "salmamehanny/phplite",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "salma mehanny",
